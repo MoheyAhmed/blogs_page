@@ -244,7 +244,24 @@ header .head .left button:active {
     border-radius:0px 0px 30px 0.5px;
 }
 
-/* *********  End of footer style  ************* */
+
+.blog .head{
+    justify-content: space-around;
+}
+
+.blog .head p{
+    font-size: 18px;
+    font-family: 'Comfortaa', Arial !important;
+    color: #00000066;
+}
+
+.blog .content p{
+    font-size: 18px;
+    font-family: 'Comfortaa', Arial !important;
+    color: #955353;
+}
+
+/* *********  End of blogs style  ************* */
 
 
 /* *********  Start of footer style  ************* */
